@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c8a081742e85a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "remed basis data/remedial basis data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tugas Kelompok/PRAKTIKUM 10.md",
+                "file": "remed basis data/remedial basis data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tugas Kelompok/PRAKTIKUM 10.md",
+                "file": "remed basis data/remedial basis data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tugas Kelompok/PRAKTIKUM 10.md"
+                "file": "remed basis data/remedial basis data.md"
               }
             }
           }
@@ -146,35 +159,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17000f4a91bc14a1",
+  "active": "9c8a081742e85a20",
   "lastOpenFiles": [
+    "remed basis data/remedial basis data.md",
+    "remed basis data/aset/remed13.png",
+    "remed basis data/aset/remed12.png",
+    "remed basis data/aset/remed11.png",
+    "remed basis data/aset/remed10.png",
+    "remed basis data/aset/remed8.png",
+    "remed basis data/aset/remed7.png",
+    "remed basis data/aset/remed6.png",
+    "remed basis data/aset/remed5.png",
+    "remed basis data/aset/remed4.png",
+    "remed basis data/aset/remed3.png",
+    "remed basis data/aset",
+    "remed basis data/New folder",
+    "remed basis data",
+    "Untitled",
+    "Tugas Kelompok/PRAKTIKUM 10.md",
     "GABUNGAN/Program Pertama PHP.md",
-    "GABUNGAN/Aset/while.png",
-    "GABUNGAN/Aset/vardump.png",
-    "GABUNGAN/Aset/tabel1.png",
-    "GABUNGAN/Aset/t7.png",
-    "GABUNGAN/Aset/t6.png",
-    "GABUNGAN/Aset/t5.png",
-    "GABUNGAN/Aset/t4.png",
-    "GABUNGAN/Aset/t3.png",
-    "GABUNGAN/Aset/t2.png",
-    "GABUNGAN/Aset/swithcase.png",
     "GABUNGAN/PhpMysql.md",
     "GABUNGAN/Aset",
     "GABUNGAN",
     "New folder",
-    "Tugas Kelompok/PRAKTIKUM 10.md",
-    "Untitled.md",
     "obsidian",
     "Phpmysql/Php/PhpMysql.md",
     "Phpmysqls/PhpMysql.md",
     "Phpmysqls/Aset",
     "Phpmysqls",
     "Phpmysql/PhpMysql.md",
-    "Phpmysql/Php/Aset",
-    "Phpmysql/Php",
-    "Phpmysql/Aset",
-    "Phpmysql/New folder",
     "PHP/Program Pertama PHP.md",
     "Tugas Kelompok/2-4.md",
     "Session/Session.md",
