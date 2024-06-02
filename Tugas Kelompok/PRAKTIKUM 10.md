@@ -91,21 +91,6 @@ Select empID, LaseName, City From Employees WHERE City = "Seattle"
 - **WHERE City = 'Seattle'**: Ini adalah klausa WHERE yang memberikan kriteria untuk mengambil data. Dalam hal ini, kita hanya akan mengambil data di mana nilai kolom "City" sama dengan "Seattle".
 
 
-## Query 
-
-```MySQL
-
-
-
-```
-
-
-## Hasil
-
-
-
-## Analisis 
-
 
 
 
@@ -209,18 +194,26 @@ Select empID, LaseName, City From Employees WHERE City = "Seattle"
 
 ```MySQL
 
+## Query
 
-
+```sql
+SELECT * FROM employees;
 ```
 
 
-## Hasil
 
+
+## Hasil
+![tabel](tabel.png)
 
 
 ## Analisis 
 
-
+- **SELECT**: Ini adalah kata kunci dalam SQL yang digunakan untuk memilih atau mengambil data dari database.
+    
+- ***** (Asterisk): Tanda asterisk digunakan sebagai wildcard yang berarti "semua kolom". Jadi, perintah ini akan mengambil semua kolom yang tersedia di tabel yang ditentukan.
+    
+- **FROM employees**: Ini adalah klausa FROM yang menunjukkan tabel yang akan digunakan untuk mengambil data. Dalam hal ini, tabel yang digunakan adalah "employees".
 
 
 
@@ -238,25 +231,27 @@ Select empID, LaseName, City From Employees WHERE City = "Seattle"
 
 ```MySQL
 
-
+Select EmpID, Lastname,City FROM Employees;
 
 ```
 
 
 ## Hasil
-
+![gambar](2.png)
 
 
 ## Analisis 
 
-
+- **SELECT**: Ini adalah kata kunci dalam SQL yang digunakan untuk memilih atau mengambil data dari database.
+    
+- **EmpID, Lastname, City**: Ini adalah nama kolom yang ingin Anda ambil dari tabel "Employees".
+    
+- **FROM Employees**: Ini adalah klausa FROM yang menunjukkan tabel yang akan digunakan untuk mengambil data. Dalam hal ini, tabel yang digunakan adalah "Employees".
 
 
 
 
 ---
-
-
 
 # 10
 
@@ -265,18 +260,24 @@ Select empID, LaseName, City From Employees WHERE City = "Seattle"
 
 ```MySQL
 
-
+Select EmpID, LastName, City from Employees WHERE City = "Seattle";
 
 ```
 
 
 ## Hasil
 
-
+![no4b](no4b.png)
 
 ## Analisis 
 
-
+- **SELECT**: Ini adalah kata kunci dalam SQL yang digunakan untuk memilih atau mengambil data dari database.
+    
+- **EmpID, LastName, City**: Ini adalah nama kolom yang ingin Anda ambil dari tabel "Employees".
+    
+- **FROM Employees**: Ini adalah klausa FROM yang menunjukkan tabel yang akan digunakan untuk mengambil data. Dalam hal ini, tabel yang digunakan adalah "Employees".
+    
+- **WHERE City = 'Seattle'**: Ini adalah klausa WHERE yang memberikan kriteria untuk mengambil data. Dalam hal ini, kita hanya akan mengambil data di mana nilai kolom "City" sama dengan "Seattle".
 
 
 

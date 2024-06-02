@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tugas Kelompok/PRAKTIKUM 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c8a081742e85a20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "remed basis data/remedial basis data.md",
+                "file": "PRAKTIKUM 10 (2)/PRAKTIKUM 10/PRAKTIKUM 10.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "remed basis data/remedial basis data.md",
+                "file": "PRAKTIKUM 10 (2)/PRAKTIKUM 10/PRAKTIKUM 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "remed basis data/remedial basis data.md",
+                "file": "PRAKTIKUM 10 (2)/PRAKTIKUM 10/PRAKTIKUM 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "remed basis data/remedial basis data.md"
+                "file": "PRAKTIKUM 10 (2)/PRAKTIKUM 10/PRAKTIKUM 10.md"
               }
             }
           }
@@ -159,42 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c8a081742e85a20",
+  "active": "17000f4a91bc14a1",
   "lastOpenFiles": [
+    "Tugas Kelompok/PRAKTIKUM 10.md",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/IMG-9.png",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/IMG-8.png",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/IMG-7.jpg",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/IMG-5.jpg",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/IMG-6.jpg",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/IMG-4.jpg",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/IMG-3.jpg",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/IMG-2.jpg",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/IMG-17.jpg",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/IMG-16.jpg",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/PRAKTIKUM 10.md",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10",
+    "PRAKTIKUM 10 (2)",
+    "Tugas Kelompok/2-4.md",
     "remed basis data/remedial basis data.md",
-    "remed basis data/aset/remed13.png",
-    "remed basis data/aset/remed12.png",
-    "remed basis data/aset/remed11.png",
-    "remed basis data/aset/remed10.png",
-    "remed basis data/aset/remed8.png",
-    "remed basis data/aset/remed7.png",
-    "remed basis data/aset/remed6.png",
-    "remed basis data/aset/remed5.png",
-    "remed basis data/aset/remed4.png",
-    "remed basis data/aset/remed3.png",
+    "remed basis data/aset/remed2.jpg.~tmp",
+    "GABUNGAN/Aset/remed1.jpg.~tmp",
+    "Tugas 7 Nomor.md",
+    "GABUNGAN/Aset/4.jpg.~tmp",
+    "GABUNGAN/PhpMysql.md",
+    "GABUNGAN/Program Pertama PHP.md",
+    "PHP/Program Pertama PHP.md",
+    "GABUNGAN/Aset/swithcase.jpg.~tmp",
+    "GABUNGAN/Aset/1.jpg.~tmp",
     "remed basis data/aset",
     "remed basis data/New folder",
-    "remed basis data",
-    "Untitled",
-    "Tugas Kelompok/PRAKTIKUM 10.md",
-    "GABUNGAN/Program Pertama PHP.md",
-    "GABUNGAN/PhpMysql.md",
-    "GABUNGAN/Aset",
-    "GABUNGAN",
-    "New folder",
-    "obsidian",
     "Phpmysql/Php/PhpMysql.md",
     "Phpmysqls/PhpMysql.md",
-    "Phpmysqls/Aset",
-    "Phpmysqls",
     "Phpmysql/PhpMysql.md",
-    "PHP/Program Pertama PHP.md",
-    "Tugas Kelompok/2-4.md",
     "Session/Session.md",
     "Untitled/Session.md",
     "Untitled/Aset.md",
     "nama.md",
-    "Tugas 7 Nomor.md",
     "t2.md",
     "Tugas Kelompok/Untitled.md",
     "ifelse.md",

@@ -352,7 +352,7 @@ switch ($hari) {
 
 ```
 ### Hasil
-![gambar](swithcase.png)
+![gambar](swithcase.jpg)
 ### Analisis
 Program akan mencetak pesan sesuai dengan nilai variabel `$hari`. Jika hari adalah "Senin", akan mencetak "Hari ini adalah Senin", jika "Selasa", akan mencetak "Hari ini adalah Selasa", dan jika tidak, akan mencetak "Hari ini bukan Senin atau Selasa".
 ### Kesimpulan Program

@@ -11,7 +11,7 @@ select warna,COUNT(id_mobil) AS Jumlah_Data_Mobil FROM data_mobil GROUP BY warna
 ```
 
 ### Hasil
-![warna](1.png)
+![warna](1.jpg)
 _
 ## 2.berdasarkan query ini tampilkan yang lebih BESAR dari 3 atau sama dengan 3 pemilik mobil nya
 
