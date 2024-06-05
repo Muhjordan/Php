@@ -24,7 +24,7 @@ if ($koneksi) {
 $select = mysqli_query($koneksi, "SELECT * FROM  siswa");
 ```
 ## Hasil
-![koneksi][Koneksi.png]
+![koneksi][Aset/Koneksi.png]
 ## Analisis
 - **Koneksi ke Database**:
     
@@ -192,7 +192,7 @@ Program ini merupakan langkah awal yang baik untuk mengakses data dari database 
 </html
 ```
 ## Hasil
-![tampilkandata][tampilkan.png]
+![tampilkandata][Aset/tampilkan.png]
 ## Analisis
 - **Deklarasi DOCTYPE dan HTML Tag**: Dokumen dimulai dengan deklarasi DOCTYPE `<!DOCTYPE html>` yang menandakan bahwa ini adalah dokumen HTML5. Kemudian, terdapat tag `<html lang="en">` yang menandakan awal dari dokumen HTML dengan pengaturan bahasa Inggris.
     
@@ -481,7 +481,7 @@ Program ini merupakan langkah awal yang baik untuk mengakses data dari database 
 </html>
 ```
 ## Hasil
-![tambah][tambahdata.png]
+![tambah][Aset/tambahdata.png]
 ## Analisis
 - **Deklarasi DOCTYPE dan HTML Tag**: Deklarasi DOCTYPE `<!DOCTYPE html>` menunjukkan bahwa dokumen ini adalah dokumen HTML5. Kemudian, tag `<html lang="en">` menandakan awal dari dokumen HTML dengan pengaturan bahasa Inggris.
     
@@ -678,7 +678,7 @@ Program ini memiliki beberapa fitur penting, termasuk:
 </html>
 ```
 ## Hasil
-![ubah](ubah.png)
+![ubah](Aset/ubah.png)
 ## Analisis
 - **Deklarasi DOCTYPE dan HTML Tag**: Dokumen ini dimulai dengan deklarasi DOCTYPE `<!DOCTYPE html>` yang menandakan bahwa dokumen ini adalah dokumen HTML5. Kemudian, tag `<html lang="en">` menunjukkan awal dari dokumen HTML dengan pengaturan bahasa Inggris.
     
@@ -759,7 +759,7 @@ if(isset($_GET['id'])){
 ?>
 ```
 ## Hasil
-![hapus](hapus.png)
+![hapus](Aset/hapus.png)
 ## Analisis
 - **Koneksi ke Database**: Program ini memasukkan file `koneksi.php` yang berisi konfigurasi koneksi ke database. Ini dilakukan dengan pernyataan `include('koneksi.php');`.
     
@@ -904,7 +904,7 @@ if (isset($_POST['submit'])) {
 </html>
 ```
 ## Hasil
-![login](Login.png)
+![login](Aset/Login.png)
 ## Analisis
 - **Mulai Sesi**: Skrip dimulai dengan `session_start()` yang memulai atau melanjutkan sesi.
     
@@ -1000,7 +1000,7 @@ fclose($output);
 exit;
 ```
 ## Hasil
-![export](export.png)
+![export](Aset/export.png)
 ## Analisis
 - **Koneksi ke Database**: Program memulai dengan memasukkan file `koneksi.php` yang berisi konfigurasi koneksi ke database. Ini dilakukan dengan pernyataan `include "koneksi.php";`.
     

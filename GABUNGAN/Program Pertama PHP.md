@@ -57,7 +57,7 @@ echo "Pembagian: $bilangan1 / $bilangan2 = $hasil_bagi <br>";
 ```
 
 ### Hasil
-![foto](aritmatika.png)
+![foto](Aset/aritmatika.png)
 ### Analisis
 1. Kita mulai dengan tag PHP (`<?php`), yang menandakan bahwa kode PHP dimulai di sini.
 2. Variabel `$bilangan1` dan `$bilangan2` diinisialisasi dengan nilai masing-masing.
@@ -247,7 +247,7 @@ if ($angka > 5) {
 ```
 
 ### Hasil
-![gambar](IF.png)
+![gambar](Aset/IF.png)
 ### Analisis
 Program di atas akan mencetak "Angka lebih besar dari 5" jika nilai `$angka` lebih besar dari 5.
 ### Kesimpulan Program
@@ -277,7 +277,7 @@ if ($angka > 5) {
 
 ```
 ### Hasil
-![foto](ifelse.png)
+![foto](Aset/ifelse.png)
 ### Analisis
 Program di atas akan mencetak "Angka lebih besar dari 5" jika nilai `$angka` lebih besar dari 5, dan mencetak "Angka kurang dari atau sama dengan 5" jika tidak
 ### Kesimpulan Program
@@ -311,7 +311,7 @@ if ($angka > 10) {
 
 ```
 ### Hasil
-![gambar](ifelse-ifelse.png)
+![gambar](Aset/ifelse-ifelse.png)
 ### Analisis
 Program akan mengecek kondisi secara berurutan. Jika nilai `$angka` lebih besar dari 10, akan mencetak "Angka lebih besar dari 10", jika sama dengan 10, mencetak "Angka sama dengan 10", dan jika tidak, mencetak "Angka kurang dari 10".
 ### Kesimpulan Program
@@ -352,7 +352,7 @@ switch ($hari) {
 
 ```
 ### Hasil
-![gambar](swithcase.png)
+![gambar](Aset/swithcase.png)
 ### Analisis
 Program akan mencetak pesan sesuai dengan nilai variabel `$hari`. Jika hari adalah "Senin", akan mencetak "Hari ini adalah Senin", jika "Selasa", akan mencetak "Hari ini adalah Selasa", dan jika tidak, akan mencetak "Hari ini bukan Senin atau Selasa".
 ### Kesimpulan Program
@@ -380,7 +380,7 @@ foreach ($buah as $nilai) {
 
 ```
 ### Hasil
-![gambar](array1dimensi.png)
+![gambar](Aset/array1dimensi.png)
 ### Analisis
 - `$buah` adalah nama variabel untuk array.
 - Setiap nilai ("Apel", "Pisang", dll.) diakses menggunakan indeks numerik yang dimulai dari 0. Misalnya, `$buah[0]` mengacu pada "Apel", `$buah[1]` mengacu pada "Pisang", dan seterusnya
@@ -410,7 +410,7 @@ foreach ($umur as $nama => $nilai) {
 
 ```
 ### Hasil
-![gambar](arrayasosiatif.png)
+![gambar](Aset/arrayasosiatif.png)
 ### Analisis
 - Variabel `$umur` adalah variabel yang menyimpan array.
 - Nilai-nilai seperti 25, 30, dan 28 disimpan dalam array `$umur` dengan kunci "John", "Jane", dan "Doe" masing-masing.
@@ -451,7 +451,7 @@ foreach ($matriks as $baris) {
 
 ```
 ### Hasil
-![gambar](arraymultidimensi.png)
+![gambar](Aset/arraymultidimensi.png)
 ### Analisis
 - Variabel `$matriks` adalah variabel yang menyimpan array multidimensi.
 - Setiap elemen array dalam `$matriks` adalah array sendiri yang merepresentasikan baris dalam matriks.
@@ -498,7 +498,7 @@ echo "Ini adalah contoh penggunaan var_dump";
 
 ```
 ### Hasil
-![foto](vardump.png)
+![foto](Aset/vardump.png)
 ### Analisis
 - Program ini menginisialisasi beberapa variabel, yaitu `$angka`, `$kata`, dan `$array`.
 - Fungsi var_dump dipanggil untuk masing-masing variabel, yang akan mencetak informasi rinci tentang tipe dan nilai dari setiap variabel tersebut.
@@ -535,7 +535,7 @@ for ($i = 1; $i < 9; $i++) {
 ?>
 ```
 ### Hasil
-![gambar](for.png)
+![gambar](Aset/for.png)
 ### Analisis
 - Variabel `$i` diinisialisasi dengan nilai 1
 - Pengulangan akan berlangsung selama nilai `$i` kurang dari 9.
@@ -673,7 +673,7 @@ helloWorld();
 
 ```
 ### Hasil
-![foto](fungsi.png)
+![foto](Aset/fungsi.png)
 ### Analisis
 - Program dimulai dengan tag PHP `<?php` dan diakhiri dengan `?>`. Ini menandakan awal dan akhir dari blok kode PHP.
 - Di dalam blok kode PHP, kita mendefinisikan sebuah fungsi dengan kata kunci `function`. Dalam contoh ini, fungsi bernama `helloWorld()` tanpa parameter.
@@ -685,7 +685,6 @@ Program ini adalah contoh sederhana tentang bagaimana menggunakan fungsi dalam P
 ## GET Method
 ### Penjelasan
 Metode GET adalah salah satu dari dua metode HTTP yang umum digunakan untuk mengirimkan data dari klien ke server. Ketika metode GET digunakan, data dikirim sebagai bagian dari URL. Ini adalah metode yang sering digunakan untuk mengambil data dari server, misalnya, ketika mengirimkan data formulir seperti dalam contoh program di atas.
-### Struktur
 ### Program
 ```php
   <!DOCTYPE html>
@@ -723,7 +722,7 @@ Metode GET adalah salah satu dari dua metode HTTP yang umum digunakan untuk meng
 
 ```
 ### Hasil
-![foto](getmethod.png)
+![foto](Aset/getmethod.png)
 ### Analisis
 1. Program di atas adalah halaman web sederhana yang memiliki formulir HTML dengan dua input: "Name" dan "Email".
 2. Form tersebut memiliki atribut `method="get"`, yang berarti data formulir akan dikirimkan melalui metode GET.
@@ -736,7 +735,6 @@ Program ini adalah contoh sederhana penggunaan metode GET dalam pemrosesan formu
 ## POST Method
 ### Penjelasan
 Metode POST adalah salah satu dari dua metode HTTP yang umum digunakan untuk mengirimkan data dari klien (biasanya browser web) ke server web. Ketika metode POST digunakan, data dikirimkan dalam badan permintaan HTTP, bukan sebagai bagian dari URL seperti pada metode GET. Ini membuat metode POST lebih cocok untuk mengirim data yang lebih sensitif atau data yang memiliki ukuran yang besar.
-### Struktur
 ### Program
 ```php
 <!DOCTYPE html>
@@ -775,7 +773,7 @@ Metode POST adalah salah satu dari dua metode HTTP yang umum digunakan untuk men
 
 ```
 ### Hasil
-![foto](postmethod.png)
+![foto](Aset/postmethod.png)
 ### Analisis
 1. **Fungsionalitas**: Program ini berfungsi sebagai halaman web yang memungkinkan pengguna untuk mengisi formulir dengan nama dan email. Setelah pengguna mengisi formulir dan mengirimkannya, program akan memproses data yang dikirimkan dan menampilkannya kembali sebagai "Processed Data" jika formulir diisi dengan benar.
     

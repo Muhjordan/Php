@@ -1,6 +1,6 @@
 # 1
 ## hasil & query
-![remed](remed1.png)
+![remed](aset/remed1.png)
 ## analisis query
 - `CREATE TABLE tabel_guru`: Ini adalah perintah untuk membuat sebuah tabel baru dengan nama "tabel_guru". Ini adalah langkah pertama dalam membuat struktur tabel baru dalam basis data.
     
@@ -35,7 +35,7 @@ Program tersebut adalah perintah SQL yang digunakan untuk membuat sebuah tabel b
 7. `tanggal_lahir`: Sebuah kolom bertipe data date yang digunakan untuk menyimpan tanggal lahir guru..
 # 2
 ## hasil & query
-![remed2](remed2.png)
+![remed2](aset/remed2.png)
 ## analisis query
 - `id_guru`: 1
 - `nama_depan`: Adrianty
@@ -56,7 +56,7 @@ Data tersebut dimasukkan dalam format yang benar, dengan tanggal lahir diberikan
 Program tersebut merupakan perintah SQL untuk memasukkan data ke dalam tabel "tabel_guru". Data yang dimasukkan meliputi informasi tentang beberapa guru, seperti nama depan, nama belakang (opsional), mata pelajaran yang diajarkan, jabatan, usia, dan tanggal lahir. Setiap baris data diwakili oleh nilai-nilai yang sesuai untuk setiap kolom dalam tabel, dipisahkan oleh koma dan diapit oleh tanda kurung. Tanggal lahir dimasukkan dalam format yang benar, yaitu diapit oleh tanda kutip tunggal. Program ini berhasil memasukkan data guru ke dalam tabel "tabel_guru".
 # 3
 ## hasil & query
-![remed3](remed3.png)
+![remed3](aset/remed3.png)
 ## analisis query
 - `id_guru`: Ini adalah atribut yang digunakan untuk mengidentifikasi secara unik setiap guru dalam tabel. Dalam contoh ini, atribut ini memiliki tipe data integer dan memiliki nilai 5 untuk guru yang baru dimasukkan. Ini adalah kunci utama (PRIMARY KEY) dari tabel, yang berarti nilainya harus unik dan tidak boleh null.
     
@@ -79,7 +79,7 @@ Program tersebut merupakan perintah SQL untuk memasukkan data ke dalam tabel "ta
 - `usia`: Atribut ini menyimpan informasi tentang usia guru. Dalam program ini, kita dapat melihat bahwa guru yang baru dimasukkan memiliki usia 17 tahun. Ini memungkinkan kita untuk melacak dan menganalisis distribusi usia guru dalam data.
 # 4
 ## hasil & query
-![remed4](remed4.png)
+![remed4](aset/remed4.png)
 ## analisis query
 - SELECT * FROM" digunakan untuk mengambil atau menampilkan semua data dari sebuah tabel dalam basis data
 - Tabel_guru adalah nama tabel
@@ -87,7 +87,7 @@ Program tersebut merupakan perintah SQL untuk memasukkan data ke dalam tabel "ta
 Perintah SQL "SELECT * FROM tabel_guru;" mengambil semua data yang tersimpan di dalam tabel "tabel_guru".
 # 5
 ## hasil & query
-![remed](remed5.png)
+![remed](aset/remed5.png)
 ## analisis query
 - SELECT * FROM" digunakan untuk mengambil atau menampilkan semua data dari sebuah tabel dalam basis data
 - Tabel_guru adalah nama tabel
@@ -102,7 +102,7 @@ Perintah SQL "SELECT * FROM tabel_guru;" mengambil semua data yang tersimpan di 
 - Kesimpulan tersebut menyoroti bahwa perintah tersebut memberikan informasi yang terperinci dan terfokus tentang satu entitas data (dalam hal ini, guru dengan ID 4), memungkinkan pengguna untuk memahami dan menganalisis data tersebut dengan lebih baik.
 # 6
 ## hasil & query
-![remed](remed6.png)
+![remed](aset/remed6.png)
 ## analisis query
 - `UPDATE table_guru `Perintah ini menunjukkan bahwa kita akan melakukan operasi pembaruan data pada tabel "table_guru".
 - `SET nama_belakang="Ganteng"`Bagian ini menetapkan nilai baru untuk kolom "nama_belakang". Dalam kasus ini, nilai yang ditetapkan adalah "Ganteng".
@@ -114,7 +114,7 @@ Perintah SQL "SELECT * FROM tabel_guru;" mengambil semua data yang tersimpan di 
 
 # 7
 ## hasil & query
-![remed](remed7.png)
+![remed](aset/remed7.png)
 ## analisis query
 - `DELETE FROM table_guru`: Ini adalah pernyataan SQL yang menandakan bahwa kita ingin menghapus data dari tabel `table_guru`.
     
@@ -124,7 +124,7 @@ Perintah SQL "SELECT * FROM tabel_guru;" mengambil semua data yang tersimpan di 
 - `WHERE id_guru = 5;`: Menentukan kriteria untuk data yang akan dihapus, yaitu data yang memiliki nilai kolom `id_guru` sama dengan 5.
 # 8
 ## hasil & query
-![remed](remed8.png)
+![remed](aset/remed8.png)
 ## analisis query
 - `SELECT * FROM table_guru`: Ini adalah pernyataan SQL yang digunakan untuk memilih atau mengambil data dari tabel `table_guru`.
     
@@ -138,7 +138,7 @@ Perintah SQL "SELECT * FROM tabel_guru;" mengambil semua data yang tersimpan di 
 `usia ASC`; adalah bahwa program ini akan mengambil semua data dari tabel `table_guru` dimana usia guru kurang dari 30 tahun dan dia mengajar mata pelajaran yang dimulai dengan 'Pem'. Hasilnya akan diurutkan berdasarkan usia guru dari yang paling muda.
 # 9
 ## hasil & query
-![remed](remed10.png)
+![remed](aset/remed10.png)
 ## analisis query
 
 1. `SELECT id_guru, nama_depan`: Ini adalah pernyataan SQL yang digunakan untuk memilih atau mengambil data dari tabel `table_guru`, khususnya hanya kolom `id_guru` dan `nama_depan` yang akan ditampilkan dalam hasilnya.
@@ -151,7 +151,7 @@ Perintah SQL "SELECT * FROM tabel_guru;" mengambil semua data yang tersimpan di 
 adalah bahwa program ini akan mengambil data dari tabel `table_guru` dimana nama depan guru mengandung huruf "i", dan hanya menampilkan kolom `id_guru` dan `nama_depan` dari data yang memenuhi kriteria tersebut.
 # 10
 ## hasil & query
-![remed](remed11.png)
+![remed](aset/remed11.png)
 ## analisis query
 - `SELECT CONCAT_WS(" ", nama_depan, nama_belakang) AS nama_lengkap`: Ini adalah pernyataan SQL yang digunakan untuk mengambil data dari tabel `table_guru` dengan melakukan penggabungan (concatenation) kolom `nama_depan` dan `nama_belakang` menjadi satu kolom baru yang disebut `nama_lengkap`. Fungsi CONCAT_WS digunakan di sini untuk menggabungkan nilai dari kedua kolom dengan menggunakan spasi (" ") sebagai pemisah.
     
@@ -161,7 +161,7 @@ adalah bahwa program ini akan mengambil data dari tabel `table_guru` dimana nama
 program ini menghasilkan daftar nama lengkap dari setiap guru dalam tabel `table_guru`, yang diambil dari gabungan nilai kolom `nama_depan` dan `nama_belakang`.x
 # 11
 ## hasil & query
-![remed](remed12.png)
+![remed](aset/remed12.png)
 ## analisis query
 - `ALTER TABLE table_guru`: Ini adalah pernyataan SQL yang digunakan untuk mengubah struktur tabel yang sudah ada, dalam hal ini `table_guru`.
     
@@ -173,7 +173,7 @@ program ini menghasilkan daftar nama lengkap dari setiap guru dalam tabel `table
 adalah bahwa program ini mengubah struktur tabel `table_guru` dengan menambahkan kolom `status` yang harus memiliki salah satu nilai dari tiga opsi yang telah ditentukan, dan kolom ini tidak boleh memiliki nilai NULL.
 # 12
 ## hasil & query
-![remed](remed13.png)
+![remed](aset/remed13.png)
 ## analisis query
 - `SELECT nama_depan, MAX(usia) AS Usia`: Ini adalah pernyataan SQL yang digunakan untuk mengambil data dari tabel `table_guru`. Kolom `nama_depan` akan dipilih langsung tanpa modifikasi. Sedangkan untuk kolom `usia`, pernyataan `MAX(usia)` digunakan untuk mengambil nilai maksimum dari kolom `usia`. Penggunaan `AS Usia` memberikan alias "Usia" untuk nilai maksimum tersebut.
     
