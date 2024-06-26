@@ -311,7 +311,7 @@ if ($angka > 10) {
 
 ```
 ### Hasil
-![gambar](Aset/ifelse-ifelse.png)
+![gambar](Aset/ifelse-ifelse.jpg)
 ### Analisis
 Program akan mengecek kondisi secara berurutan. Jika nilai `$angka` lebih besar dari 10, akan mencetak "Angka lebih besar dari 10", jika sama dengan 10, mencetak "Angka sama dengan 10", dan jika tidak, mencetak "Angka kurang dari 10".
 ### Kesimpulan Program

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tugas 7 Nomor.md",
+                "file": "Pengenalan CSS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tugas 7 Nomor.md",
+                "file": "Pengenalan CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tugas 7 Nomor.md",
+                "file": "Pengenalan CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tugas 7 Nomor.md"
+                "file": "Pengenalan CSS.md"
               }
             }
           }
@@ -148,44 +148,51 @@
   },
   "active": "17000f4a91bc14a1",
   "lastOpenFiles": [
-    "GABUNGAN/PhpMysql.md",
+    "GABUNGAN/Aset/arrayasosiatif.jpg",
+    "Pengenalan CSS.md",
     "GABUNGAN/Program Pertama PHP.md",
-    "remed basis data/remedial basis data.md",
-    "GABUNGAN/Aset/while.jpg",
-    "GABUNGAN/Aset/vardump.jpg",
-    "GABUNGAN/Aset/ubah.jpg",
-    "GABUNGAN/Aset/tampilkan.jpg",
-    "GABUNGAN/Aset/Tambahdata.jpg",
-    "GABUNGAN/Aset/postmethod.jpg",
-    "GABUNGAN/Aset/perbandingan.jpg",
-    "GABUNGAN/Aset/Login.jpg",
-    "GABUNGAN/Aset/logika.jpg",
-    "GABUNGAN/Aset/ifelse-ifelse.jpg",
+    "Eksplorasi.pdf",
+    "Catatan html.pdf",
+    "Catatan Basis Data.pdf",
+    "GABUNGAN/PhpMysql.md",
     "PRAKTIKUM 10 (2)/PRAKTIKUM 10/PRAKTIKUM 10.md",
+    "remed basis data/remedial basis data.md",
+    "Tugas Kelompok/PRAKTIKUM 10.md",
+    "Eksplorasi.md",
+    "Catatan html.md",
+    "Screenshot_2024-03-26-13-19-54-52.jpg",
+    "Screenshot_2024-03-26-13-19-11-92 1.jpg",
+    "Screenshot_2024-03-26-13-19-11-92.jpg",
+    "Screenshot_2024-03-26-13-19-05-75_84d3000e3f4017145260f7618db1d683.jpg",
+    "Screenshot_2024-03-26-13-18-55-29.jpg",
+    "IMG20240501195205.jpg",
+    "IMG-20240225-WA0032.jpg",
+    "IMG_20240624_221911.jpg",
+    "IMG_20240624_221713.jpg",
+    "IMG_20240624_221322.jpg",
+    "IMG_20240121_231530jpg.md",
+    "BASIS DATA.md",
+    "Untitled.md",
+    "Catatan Basis Data.md",
+    "Bootstrap Framework.pdf",
+    "PHP/SELECT LANJUTAN (1).md",
+    "Aset/IMG_20240427_165600.md",
+    "Aset/IMG_20240219_132250.md",
+    "Aset/IMG_20240219_121325.md",
+    "SELECT LANJUTAN.md",
+    "ALTER.md",
+    "Aset",
+    "PHP/ALTER.md",
+    "PHP/Program Pertama PHP.md",
     "Tugas 7 Nomor.md",
     "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/desktop.ini",
-    "Tugas Kelompok/PRAKTIKUM 10.md",
     "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz",
     "PRAKTIKUM 10 (2)/PRAKTIKUM 10",
     "PRAKTIKUM 10 (2)",
     "Tugas Kelompok/2-4.md",
     "remed basis data/aset/remed2.jpg.~tmp",
-    "GABUNGAN/Aset/remed1.jpg.~tmp",
-    "GABUNGAN/Aset/4.jpg.~tmp",
-    "PHP/Program Pertama PHP.md",
-    "GABUNGAN/Aset/swithcase.jpg.~tmp",
-    "GABUNGAN/Aset/1.jpg.~tmp",
-    "remed basis data/aset",
     "Phpmysql/Php/PhpMysql.md",
     "Phpmysqls/PhpMysql.md",
-    "Phpmysql/PhpMysql.md",
-    "Session/Session.md",
-    "Untitled/Session.md",
-    "Untitled/Aset.md",
-    "nama.md",
-    "t2.md",
-    "Tugas Kelompok/Untitled.md",
-    "ifelse.md",
-    "PHP/Aset.md"
+    "Phpmysql/PhpMysql.md"
   ]
 }
