@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GABUNGAN/PhpMysql.md",
+                "file": "remed basis data/remedial basis data.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GABUNGAN/PhpMysql.md",
+                "file": "remed basis data/remedial basis data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GABUNGAN/PhpMysql.md",
+                "file": "remed basis data/remedial basis data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GABUNGAN/PhpMysql.md"
+                "file": "remed basis data/remedial basis data.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "17000f4a91bc14a1",
   "lastOpenFiles": [
+    "GABUNGAN/Program Pertama PHP.md",
+    "GABUNGAN/PhpMysql.md",
     "GABUNGAN/Aset/while.jpg",
     "GABUNGAN/Aset/vardump.jpg",
     "GABUNGAN/Aset/ubah.jpg",
@@ -158,12 +160,9 @@
     "GABUNGAN/Aset/Login.jpg",
     "GABUNGAN/Aset/logika.jpg",
     "GABUNGAN/Aset/ifelse-ifelse.jpg",
-    "GABUNGAN/Aset/ifelse.jpg",
     "PRAKTIKUM 10 (2)/PRAKTIKUM 10/PRAKTIKUM 10.md",
     "Tugas 7 Nomor.md",
-    "GABUNGAN/Program Pertama PHP.md",
     "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/desktop.ini",
-    "GABUNGAN/PhpMysql.md",
     "remed basis data/remedial basis data.md",
     "Tugas Kelompok/PRAKTIKUM 10.md",
     "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz",
