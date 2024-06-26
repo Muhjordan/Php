@@ -154,7 +154,7 @@ if ($b >= $a) {
 
 ```
 ### Hasil
-![foto](perbandingan.png)
+![foto](perbandingan.jpg)
 ### Analisis
 1. **Inisialisasi Variabel**: Kita mulai dengan menginisialisasi dua variabel, `$a` dan `$b`, dengan nilai 5 dan 10.
     
@@ -217,7 +217,7 @@ if ($umur >= 18 && $status == "mahasiswa") {
 
 ```
 ### Hasil
-![foto](logika.png)
+![foto](logika.jpg)
 ### Analisis
 - Program di atas mengevaluasi dua kondisi: apakah seseorang berumur 18 tahun atau lebih, dan apakah statusnya adalah "mahasiswa".
 - Jika kedua kondisi tersebut terpenuhi (umur lebih dari atau sama dengan 18 dan status adalah "mahasiswa"), pesan "Anda adalah mahasiswa dewasa." akan ditampilkan.
@@ -247,7 +247,7 @@ if ($angka > 5) {
 ```
 
 ### Hasil
-![gambar](Aset/IF.png)
+![gambar](Aset/IF.jpg)
 ### Analisis
 Program di atas akan mencetak "Angka lebih besar dari 5" jika nilai `$angka` lebih besar dari 5.
 ### Kesimpulan Program
@@ -572,7 +572,7 @@ while ($count < 8) {
 ?>
 ```
 ### Hasil
-![gambar](while.png)
+![gambar](while.jpg)
 ### Analisis
 - Variabel `$count` diinisialisasi dengan nilai 0.
 - Blok kode dalam pengulangan `while` akan dieksekusi selama nilai `$count` kurang dari 8.
@@ -610,7 +610,7 @@ do {
 ?>
 ```
 ### Hasil
-![gambar](dowhile.png)
+![gambar](dowhile.jpg)
 ### Analisis
 - Variabel `$count` diinisialisasi dengan nilai 0.
 - Blok kode dalam pengulangan `do-while` akan dieksekusi setidaknya satu kali, karena kondisi tidak diuji hingga setelah blok kode dieksekusi.
@@ -646,7 +646,7 @@ foreach ($buah as $nama) {
 ?>
 ```
 ### Hasil
-![gambar](foreach.png)
+![gambar](Aset/foreach.png)
 ### Analisis
 - Variabel `$buah` adalah array yang berisi beberapa nama buah.
 - Pengulangan `foreach` akan mengulangi setiap elemen dalam array `$buah`.

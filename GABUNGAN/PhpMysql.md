@@ -24,7 +24,7 @@ if ($koneksi) {
 $select = mysqli_query($koneksi, "SELECT * FROM  siswa");
 ```
 ## Hasil
-![koneksi](Aset/Koneksi.png)
+![koneksi](Aset/Koneksi.jpg)
 ## Analisis
 - **Koneksi ke Database**:
     
@@ -192,7 +192,7 @@ Program ini merupakan langkah awal yang baik untuk mengakses data dari database 
 </html
 ```
 ## Hasil
-![tampilkandata](Aset/tampilkan.png)
+![tampilkandata](Aset/tampilkan.jpg)
 ## Analisis
 - **Deklarasi DOCTYPE dan HTML Tag**: Dokumen dimulai dengan deklarasi DOCTYPE `<!DOCTYPE html>` yang menandakan bahwa ini adalah dokumen HTML5. Kemudian, terdapat tag `<html lang="en">` yang menandakan awal dari dokumen HTML dengan pengaturan bahasa Inggris.
     
