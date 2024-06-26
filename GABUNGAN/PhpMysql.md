@@ -24,7 +24,7 @@ if ($koneksi) {
 $select = mysqli_query($koneksi, "SELECT * FROM  siswa");
 ```
 ## Hasil
-![koneksi][Aset/Koneksi.png]
+![koneksi](Aset/Koneksi.png)
 ## Analisis
 - **Koneksi ke Database**:
     
@@ -192,7 +192,7 @@ Program ini merupakan langkah awal yang baik untuk mengakses data dari database 
 </html
 ```
 ## Hasil
-![tampilkandata][Aset/tampilkan.png]
+![tampilkandata](Aset/tampilkan.png)
 ## Analisis
 - **Deklarasi DOCTYPE dan HTML Tag**: Dokumen dimulai dengan deklarasi DOCTYPE `<!DOCTYPE html>` yang menandakan bahwa ini adalah dokumen HTML5. Kemudian, terdapat tag `<html lang="en">` yang menandakan awal dari dokumen HTML dengan pengaturan bahasa Inggris.
     
@@ -264,13 +264,13 @@ Program ini merupakan langkah awal yang baik untuk mengakses data dari database 
 
     {
 
-        $nameImage = $_FILES['gambar']['name'];
+        $nameImage = $_FILES['gambar']('name'];
 
-        $directoryFile = $_FILES['gambar']['tmp_name'];
+        $directoryFile = $_FILES['gambar']('tmp_name'];
 
-        $errorImage = intval($_FILES['gambar']['error']);
+        $errorImage = intval($_FILES['gambar']('error']);
 
-        $sizeFile = $_FILES['gambar']['size'];
+        $sizeFile = $_FILES['gambar']('size'];
 
   
 
@@ -481,7 +481,7 @@ Program ini merupakan langkah awal yang baik untuk mengakses data dari database 
 </html>
 ```
 ## Hasil
-![tambah][Aset/tambahdata.png]
+![tambah](Aset/tambahdata.png)
 ## Analisis
 - **Deklarasi DOCTYPE dan HTML Tag**: Deklarasi DOCTYPE `<!DOCTYPE html>` menunjukkan bahwa dokumen ini adalah dokumen HTML5. Kemudian, tag `<html lang="en">` menandakan awal dari dokumen HTML dengan pengaturan bahasa Inggris.
     
