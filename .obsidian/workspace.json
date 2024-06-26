@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pengenalan CSS.md",
+                "file": "GABUNGAN/Program Pertama PHP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pengenalan CSS.md",
+                "file": "GABUNGAN/Program Pertama PHP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pengenalan CSS.md",
+                "file": "GABUNGAN/Program Pertama PHP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pengenalan CSS.md"
+                "file": "GABUNGAN/Program Pertama PHP.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "17000f4a91bc14a1",
   "lastOpenFiles": [
-    "GABUNGAN/Aset/arrayasosiatif.jpg",
+    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/PRAKTIKUM 10.pdf",
+    "remed basis data/remedial basis data.pdf",
+    "GABUNGAN/Program Pertama PHP.pdf",
+    "GABUNGAN/PhpMysql.pdf",
+    "PHP/ALTER.md",
     "Pengenalan CSS.md",
+    "New folder",
+    "GABUNGAN/Aset/arrayasosiatif.jpg",
     "GABUNGAN/Program Pertama PHP.md",
     "Eksplorasi.pdf",
     "Catatan html.pdf",
@@ -169,7 +175,6 @@
     "IMG-20240225-WA0032.jpg",
     "IMG_20240624_221911.jpg",
     "IMG_20240624_221713.jpg",
-    "IMG_20240624_221322.jpg",
     "IMG_20240121_231530jpg.md",
     "BASIS DATA.md",
     "Untitled.md",
@@ -182,15 +187,10 @@
     "SELECT LANJUTAN.md",
     "ALTER.md",
     "Aset",
-    "PHP/ALTER.md",
     "PHP/Program Pertama PHP.md",
     "Tugas 7 Nomor.md",
     "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz/desktop.ini",
-    "PRAKTIKUM 10 (2)/PRAKTIKUM 10/asetz",
-    "PRAKTIKUM 10 (2)/PRAKTIKUM 10",
-    "PRAKTIKUM 10 (2)",
     "Tugas Kelompok/2-4.md",
-    "remed basis data/aset/remed2.jpg.~tmp",
     "Phpmysql/Php/PhpMysql.md",
     "Phpmysqls/PhpMysql.md",
     "Phpmysql/PhpMysql.md"
